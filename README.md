@@ -1,3 +1,4 @@
+![logo](https://github.com/tanseernihal/Tanseer-Nihal/blob/main/Banner%20for%20Git.jpg)
 <h1 align="center">Hi 👋, I'm Mohammed Tanseer Nihal .M</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
